@@ -6,4 +6,7 @@ Back-end: Mysql, Php.
 Online link: http://vanthai3108.epizy.com/.
 
 How the web work:
+
+
+
 ![how-the-web-work](https://github.com/vanthai3108/Sales-website---Btec-Assignment---/blob/master/images/how-the-web-work.png)
