@@ -1,19 +1,19 @@
 <?php
 
-$connect = mysqli_connect('localhost','root','','mydatabase'); 
+// $connect = mysqli_connect('localhost','root','','mydatabase'); 
 
 
  
-// $server = "sql201.epizy.com";
-// $username = "epiz_27536717";
-// $password = "lr7rGg6GF9n0s";
-// $dbname ="epiz_27536717_thai2001";
+$server = "35.172.43.136";
+$username = "ec2-user";
+$password = "123@123a";
+$dbname ="mydatabase";
 
-// $connect = mysqli_connect($server, $username, $password, $dbname);
-// if (!connect) {
-// 	die("Connect Failed:".mysqli_connect_error());
-// 	# code...
-// }
+$connect = mysqli_connect($server, $username, $password, $dbname);
+if (!connect) {
+	die("Connect Failed:".mysqli_connect_error());
+	# code...
+}
 
 ?>
 	
