@@ -11,13 +11,10 @@ $dbname ="mydatabase";
 
 $connect = mysqli_connect($server, $username, $password, $dbname);
 if (!$connect) {
-    echo "no";
 	die("Connect Failed:".mysqli_connect_error());
 	# code...
 }
-else {
-    echo "yes";
-}
+
 
 
 ?>
