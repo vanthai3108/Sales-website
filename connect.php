@@ -5,7 +5,7 @@
 
  
 $server = "35.172.43.136";
-$username = "ec2-user";
+$username = "thai";
 $password = "123@123a";
 $dbname ="mydatabase";
 
